@@ -1,5 +1,5 @@
 {
-    "name": "whcoding/signature",
+    "name": "muzidudu/signature",
     "description": "api signature",
     "keywords": [
         "api",
@@ -16,11 +16,11 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^8.40"
+        "laravel/framework": "^8.4|^9.0|^10.0"
     },
     "require-dev": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^8.40"
+        "laravel/framework": "^8.4|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
