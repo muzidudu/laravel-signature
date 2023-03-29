@@ -7,7 +7,7 @@
         "signature"
     ],
     "license": "MIT",
-    "minimum-stability": "dev",
+    "type": "library",
     "authors": [
         {
             "name": "wenhao",
