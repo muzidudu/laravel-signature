@@ -8,6 +8,8 @@
     ],
     "license": "MIT",
     "type": "library",
+    "prefer-stable": true,
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "wenhao",
